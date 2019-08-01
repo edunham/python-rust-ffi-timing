@@ -5,7 +5,7 @@ Examples for talks.edunham.net/djangoconau2019 presentation.
 Derived and updated from Alex Crichton's work in github.com/alexcrichton/rust-ffi-examples, which has many other languages as well. 
 
 ```
-cargo build --release
+cargo build
 python timer.py
 ```
 
