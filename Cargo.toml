@@ -1,5 +1,5 @@
 [package]
-name = "python-to-rust"
+name = "lucky-digit"
 version = "0.2.0"
 authors = ["Alex Crichton <alex@alexcrichton.com>", "E. Dunham <rustffi@edunham.net>"]
 edition = "2018"

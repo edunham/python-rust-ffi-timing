@@ -3,8 +3,8 @@ import timeit
 
 outfile = "data.csv"
 start = 0
-datapoints = 1000
-step = 1000
+datapoints = 50 
+step = 100000
 for i in range(start,datapoints*step,step):
     print i
     pre = timeit.default_timer()
